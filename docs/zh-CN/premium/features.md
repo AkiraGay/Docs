@@ -10,7 +10,7 @@
 
 ### Priority Support
 
-### Access to InviteSuccubus Pro bot \(Orange Logo\)
+### Access to InviteSuccubi bot \(Orange Logo\)
 
 ### Request New Feature \(public, if reasonable\)
 

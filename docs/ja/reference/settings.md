@@ -11,7 +11,7 @@ There are many config options that can be set. You don't have to set all of them
 | [接頭辞](#prefix)                           | ボットコマンドを呼びだすために使用されるプレフィックス。                 |
 | [言語](#lang)                               | BOT の言語                                                               |
 | [ログチャンネル](#logchannel)               | ボットアクションが記録されるチャンネル。                                 |
-| [アップデート情報を手に入れる](#getupdates) | InviteSuccubus に関する開発の最新情報を受け取ることができるようにします。 |
+| [アップデート情報を手に入れる](#getupdates) | Invite Succubi に関する開発の最新情報を受け取ることができるようにします。 |
 | [コマンドチャンネル](#channels)             | ボットがコマンドに反応するチャンネル。                                   |
 | [無視されるチャンネル](#ignoredchannels)    | ボットがコマンドを無視するチャンネル。                                   |
 
@@ -258,7 +258,7 @@ Examples:
 
 ## アップデート情報を手に入れる
 
-InviteSuccubus に関する開発の最新情報を受け取ることができるようにします。
+Invite Succubi に関する開発の最新情報を受け取ることができるようにします。
 
 Type: `Boolean`
 

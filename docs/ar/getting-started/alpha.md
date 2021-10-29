@@ -1,5 +1,5 @@
 # البوت التجريبي
 
-إن برنامج `InviteSuccubus Alpha` هو الروبوت الذي نستخدمه لاختبار ميزات جديدة. لن تكون الميزات الجديدة الموجودة على Alpha bot مستقرة دائمًا ، ولكن إذا استخدمت هذا الروبوت ، فستكون أول من يراها ويمكنك أن تقدم لنا ملاحظات كيف يمكننا تحسينها قبل إدراجها في الروبوت الرئيسي .
+إن برنامج `Invite Succubi Alpha` هو الروبوت الذي نستخدمه لاختبار ميزات جديدة. لن تكون الميزات الجديدة الموجودة على Alpha bot مستقرة دائمًا ، ولكن إذا استخدمت هذا الروبوت ، فستكون أول من يراها ويمكنك أن تقدم لنا ملاحظات كيف يمكننا تحسينها قبل إدراجها في الروبوت الرئيسي .
 
-قم بدعوة InviteSuccubus Alpha من هنا: [Invite](https://discordapp.com/oauth2/authorize?client_id=412380586737664020&permissions=268435616&scope=bot&redirect_uri=https://google.com)
+قم بدعوة Invite Succubi Alpha من هنا: [Invite](https://discordapp.com/oauth2/authorize?client_id=412380586737664020&permissions=268435616&scope=bot&redirect_uri=https://google.com)

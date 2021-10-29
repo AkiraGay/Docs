@@ -142,9 +142,9 @@ This argument expects a duration. The following duration types are supported:
 
 | Command                   | Description                                                     | Usage             |
 | ------------------------- | --------------------------------------------------------------- | ----------------- |
-| [export](#export)         | InviteSuccubus のデータを csv シートにエクスポートします。       | !export \<type\>  |
-| [premium](#premium)       | InviteSuccubus のプレミアムバージョンに関する情報。              | !premium [action] |
-| [tryPremium](#tryPremium) | プレミアム版の InviteSuccubus を期間限定で無料でお試しください。 | !tryPremium       |
+| [export](#export)         | Invite Succubi のデータを csv シートにエクスポートします。       | !export \<type\>  |
+| [premium](#premium)       | Invite Succubi のプレミアムバージョンに関する情報。              | !premium [action] |
+| [tryPremium](#tryPremium) | プレミアム版の Invite Succubi を期間限定で無料でお試しください。 | !tryPremium       |
 
 ### Moderation
 
@@ -697,7 +697,7 @@ BOT の開発者と貢献者を表示します。
 
 ## !export
 
-InviteSuccubus のデータを csv シートにエクスポートします。
+Invite Succubi のデータを csv シートにエクスポートします。
 
 ### Usage
 
@@ -1445,7 +1445,7 @@ Lockdown a specific channel (Prevents anyone without special roles from sending 
 
 ## !premium
 
-InviteSuccubus のプレミアムバージョンに関する情報。
+Invite Succubi のプレミアムバージョンに関する情報。
 
 ### Usage
 
@@ -2084,7 +2084,7 @@ Removes a specified amount of invites from a user.
 
 ## !tryPremium
 
-プレミアム版の InviteSuccubus を期間限定で無料でお試しください。
+プレミアム版の Invite Succubi を期間限定で無料でお試しください。
 
 ### Usage
 

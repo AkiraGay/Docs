@@ -142,8 +142,8 @@ This argument expects a duration. The following duration types are supported:
 | Command                   | Description                                                               | Usage             |
 | ------------------------- | ------------------------------------------------------------------------- | ----------------- |
 | [export](#export)         | اصدار ملفات الانفايت منجر لـ csv                                          | !export \<type\>  |
-| [premium](#premium)       | معلومات حول الإصدار المتميز من InviteSuccubus.                             | !premium [action] |
-| [tryPremium](#tryPremium) | Try the premium version of InviteSuccubus for free for a limited duration. | !tryPremium       |
+| [premium](#premium)       | معلومات حول الإصدار المتميز من Invite Succubi.                             | !premium [action] |
+| [tryPremium](#tryPremium) | Try the premium version of Invite Succubi for free for a limited duration. | !tryPremium       |
 
 ### Moderation
 
@@ -1444,7 +1444,7 @@ Play the song if the queue is empty, otherwise it will add the song to the end o
 
 ## !premium
 
-معلومات حول الإصدار المتميز من InviteSuccubus.
+معلومات حول الإصدار المتميز من Invite Succubi.
 
 ### Usage
 
@@ -2084,7 +2084,7 @@ Get an invite link to our support server.
 
 ## !tryPremium
 
-Try the premium version of InviteSuccubus for free for a limited duration.
+Try the premium version of Invite Succubi for free for a limited duration.
 
 ### Usage
 

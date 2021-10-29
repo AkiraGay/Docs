@@ -141,9 +141,9 @@ This argument expects a duration. The following duration types are supported:
 
 | Command                   | Description                                                               | Usage             |
 | ------------------------- | ------------------------------------------------------------------------- | ----------------- |
-| [export](#export)         | Eksportuj dane InviteSuccubus do arkusza CSV.                              | !export \<type\>  |
-| [premium](#premium)       | Info about premium version of InviteSuccubus.                              | !premium [action] |
-| [tryPremium](#tryPremium) | Try the premium version of InviteSuccubus for free for a limited duration. | !tryPremium       |
+| [export](#export)         | Eksportuj dane Invite Succubi do arkusza CSV.                              | !export \<type\>  |
+| [premium](#premium)       | Info about premium version of Invite Succubi.                              | !premium [action] |
+| [tryPremium](#tryPremium) | Try the premium version of Invite Succubi for free for a limited duration. | !tryPremium       |
 
 ### Moderation
 
@@ -696,7 +696,7 @@ Disconnect the bot from the current voice channel.
 
 ## !export
 
-Eksportuj dane InviteSuccubus do arkusza CSV.
+Eksportuj dane Invite Succubi do arkusza CSV.
 
 ### Usage
 
@@ -1444,7 +1444,7 @@ Shows the current prefix of the bot.
 
 ## !premium
 
-Info about premium version of InviteSuccubus.
+Info about premium version of Invite Succubi.
 
 ### Usage
 
@@ -2083,7 +2083,7 @@ Get an invite link to our support server.
 
 ## !tryPremium
 
-Try the premium version of InviteSuccubus for free for a limited duration.
+Try the premium version of Invite Succubi for free for a limited duration.
 
 ### Usage
 

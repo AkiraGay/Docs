@@ -13,8 +13,8 @@ There are several premium tiers available on [PayPal](https://www.paypal.me/Xyni
 ### \$5/month
 
 - All of the above
-- Access to our InviteSuccubus Pro bot \(on up to 5 of your servers\)
-  - The bot has an orange logo and the name "InviteSuccubus Pro"
+- Access to our InviteSuccubi bot \(on up to 5 of your servers\)
+  - The bot has an orange logo and the name "InviteSuccubi"
   - Runs on separate servers and is not affected by downtimes of our main bot
 - Embed styling of join and leave messages, as well as rank promotion announcements
   - [See examples](modules/invites/custom-messages.md)

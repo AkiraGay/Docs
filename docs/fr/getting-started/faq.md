@@ -4,7 +4,7 @@
 
 Vous pouvez faire `!config prefix -` pour changer le préfixe.
 
-Si vous ne connaissez pas votre préfixe actuel, vous pouvez utiliser `@InviteSuccubus config prefix` pour afficher le préfixe.
+Si vous ne connaissez pas votre préfixe actuel, vous pouvez utiliser `@Invite Succubi config prefix` pour afficher le préfixe.
 
 ## Comment je définie des messages d'arrivés et de départs?
 

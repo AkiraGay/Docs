@@ -4,7 +4,7 @@
 
 You can do `!config prefix -` to change the prefix.
 
-If you don't know your current prefix, you can do `@InviteSuccubus config prefix` to see the prefix.
+If you don't know your current prefix, you can do `@Invite Succubi config prefix` to see the prefix.
 
 ## How do I set join and leave messages?
 

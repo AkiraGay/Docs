@@ -11,7 +11,7 @@ There are many config options that can be set. You don't have to set all of them
 | [Préfixe](#prefix)                       | Le préfixe utilisé pour les commandes du bot.             |
 | [Langage](#lang)                         | La langue du bot                                          |
 | [Salon des logs](#logchannel)            | Le salon dans lequel les actions du bot sont notées.      |
-| [Obtenir les mises à jour.](#getupdates) | Activer pour recevoir les mises à jour d'InviteSuccubus.   |
+| [Obtenir les mises à jour.](#getupdates) | Activer pour recevoir les mises à jour d'Invite Succubi.   |
 | [Channel des commandes](#channels)       | Le channel dans lequel le bot réagira aux commandes.      |
 | [Salons ignorés](#ignoredchannels)       | Les salons dans lesquelles le bot ignorera les commandes. |
 
@@ -258,7 +258,7 @@ Examples:
 
 ## Obtenir les mises à jour.
 
-Activer pour recevoir les mises à jour d'InviteSuccubus.
+Activer pour recevoir les mises à jour d'Invite Succubi.
 
 Type: `Boolean`
 

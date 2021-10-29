@@ -11,7 +11,7 @@ There are many config options that can be set. You don't have to set all of them
 | [Prefix](#prefix)                    | The prefix used to trigger bot commands.                   |
 | [Dil](#lang)                         | The language of the bot                                    |
 | [Log Channel](#logchannel)           | The channel where bot actions are logged.                  |
-| [Yükselt.](#getupdates)              | Enable to receive development updates about InviteSuccubus. |
+| [Yükselt.](#getupdates)              | Enable to receive development updates about Invite Succubi. |
 | [Command channels](#channels)        | The channels in which the bot will react to commands.      |
 | [Ignored channels](#ignoredchannels) | The channels in which the bot will ignore commands.        |
 
@@ -258,7 +258,7 @@ Examples:
 
 ## Yükselt.
 
-Enable to receive development updates about InviteSuccubus.
+Enable to receive development updates about Invite Succubi.
 
 Type: `Boolean`
 

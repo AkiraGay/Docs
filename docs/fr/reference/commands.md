@@ -140,9 +140,9 @@ This argument expects a duration. The following duration types are supported:
 
 | Command                   | Description                                                                     | Usage             |
 | ------------------------- | ------------------------------------------------------------------------------- | ----------------- |
-| [export](#export)         | Exportez les données d'InviteSuccubus vers une feuille de calculs CSV.           | !export \<type\>  |
-| [premium](#premium)       | Informations sur la version premium d'InviteSuccubus.                            | !premium [action] |
-| [tryPremium](#tryPremium) | Essayez gratuitement la version premium d’InviteSuccubus pour une durée limitée. | !tryPremium       |
+| [export](#export)         | Exportez les données d'Invite Succubi vers une feuille de calculs CSV.           | !export \<type\>  |
+| [premium](#premium)       | Informations sur la version premium d'Invite Succubi.                            | !premium [action] |
+| [tryPremium](#tryPremium) | Essayez gratuitement la version premium d’Invite Succubi pour une durée limitée. | !tryPremium       |
 
 ### Moderation
 
@@ -695,7 +695,7 @@ Déconnecter le bot du salon actuel.
 
 ## !export
 
-Exportez les données d'InviteSuccubus vers une feuille de calculs CSV.
+Exportez les données d'Invite Succubi vers une feuille de calculs CSV.
 
 ### Usage
 
@@ -1443,7 +1443,7 @@ Affiche le préfixe actuel du bot.
 
 ## !premium
 
-Informations sur la version premium d'InviteSuccubus.
+Informations sur la version premium d'Invite Succubi.
 
 ### Usage
 
@@ -2082,7 +2082,7 @@ Obtenez un lien d'invitation vers notre serveur d'assistance.
 
 ## !tryPremium
 
-Essayez gratuitement la version premium d’InviteSuccubus pour une durée limitée.
+Essayez gratuitement la version premium d’Invite Succubi pour une durée limitée.
 
 ### Usage
 

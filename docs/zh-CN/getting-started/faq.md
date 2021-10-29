@@ -4,7 +4,7 @@
 
 你可以使用 `!config prefix -` 来更改前缀。
 
-如果你不知道前缀是什么，你可以使用 `@InviteSuccubus config prefix` 来查看前缀。
+如果你不知道前缀是什么，你可以使用 `@Invite Succubi config prefix` 来查看前缀。
 
 ## 我该如何设定加入与离开讯息？
 

@@ -1,4 +1,4 @@
-# InviteSuccubus Docs
+# Invite Succubi Docs
 
 - [English](/en/README.md)
 - [العربية](/ar/README.md)

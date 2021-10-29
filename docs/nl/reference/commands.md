@@ -141,9 +141,9 @@ This argument expects a duration. The following duration types are supported:
 
 | Command                   | Description                                                                 | Usage             |
 | ------------------------- | --------------------------------------------------------------------------- | ----------------- |
-| [export](#export)         | Exporteer data van InviteSuccubus in een csv bestand.                        | !export \<type\>  |
-| [premium](#premium)       | Informatie over de betaalde versie van InviteSuccubus.                       | !premium [action] |
-| [tryPremium](#tryPremium) | Probeer de betaalde versie van InviteSuccubus gratis voor een bepaalde tijd. | !tryPremium       |
+| [export](#export)         | Exporteer data van Invite Succubi in een csv bestand.                        | !export \<type\>  |
+| [premium](#premium)       | Informatie over de betaalde versie van Invite Succubi.                       | !premium [action] |
+| [tryPremium](#tryPremium) | Probeer de betaalde versie van Invite Succubi gratis voor een bepaalde tijd. | !tryPremium       |
 
 ### Moderation
 
@@ -696,7 +696,7 @@ Laat de bot de huidige spraakkanaal verlaten.
 
 ## !export
 
-Exporteer data van InviteSuccubus in een csv bestand.
+Exporteer data van Invite Succubi in een csv bestand.
 
 ### Usage
 
@@ -1444,7 +1444,7 @@ Laat de huidige prefix zien van de bot.
 
 ## !premium
 
-Informatie over de betaalde versie van InviteSuccubus.
+Informatie over de betaalde versie van Invite Succubi.
 
 ### Usage
 
@@ -2083,7 +2083,7 @@ Krijg een invite link naar onze hulp server.
 
 ## !tryPremium
 
-Probeer de betaalde versie van InviteSuccubus gratis voor een bepaalde tijd.
+Probeer de betaalde versie van Invite Succubi gratis voor een bepaalde tijd.
 
 ### Usage
 

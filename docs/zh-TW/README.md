@@ -1,4 +1,4 @@
-# InviteSuccubus
+# Invite Succubi
 
 ## 參考資料
 

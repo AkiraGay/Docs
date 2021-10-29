@@ -4,7 +4,7 @@
 
 Możesz napisać `!config prefix -` żeby zmienić prefix.
 
-Jeśli nie znasz swojego aktualnego prefixu użyj `@InviteSuccubus config prefix` aby go zobaczyć
+Jeśli nie znasz swojego aktualnego prefixu użyj `@Invite Succubi config prefix` aby go zobaczyć
 
 ## Jak ustawić wiadomości na powitania i pożegnania?
 

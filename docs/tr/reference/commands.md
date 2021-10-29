@@ -141,9 +141,9 @@ This argument expects a duration. The following duration types are supported:
 
 | Command                   | Description                                                               | Usage             |
 | ------------------------- | ------------------------------------------------------------------------- | ----------------- |
-| [export](#export)         | InviteSuccubus verilerini bir csv sayfasına aktarın.                       | !export \<type\>  |
-| [premium](#premium)       | InviteSuccubus'ın premium versiyonu hakkında bilgi edinmek.                | !premium [action] |
-| [tryPremium](#tryPremium) | InviteSuccubus'ın premium sürümünü sınırlı bir süre için ücretsiz deneyin. | !tryPremium       |
+| [export](#export)         | Invite Succubi verilerini bir csv sayfasına aktarın.                       | !export \<type\>  |
+| [premium](#premium)       | Invite Succubi'ın premium versiyonu hakkında bilgi edinmek.                | !premium [action] |
+| [tryPremium](#tryPremium) | Invite Succubi'ın premium sürümünü sınırlı bir süre için ücretsiz deneyin. | !tryPremium       |
 
 ### Moderation
 
@@ -696,7 +696,7 @@ Botu geçerli ses kanalından çıkarın.
 
 ## !export
 
-InviteSuccubus verilerini bir csv sayfasına aktarın.
+Invite Succubi verilerini bir csv sayfasına aktarın.
 
 ### Usage
 
@@ -1444,7 +1444,7 @@ Botun geçerli ön-ekini gösterir.
 
 ## !premium
 
-InviteSuccubus'ın premium versiyonu hakkında bilgi edinmek.
+Invite Succubi'ın premium versiyonu hakkında bilgi edinmek.
 
 ### Usage
 
@@ -2083,7 +2083,7 @@ Destek sunucumuza katılmak için davet bağlantısı alın.
 
 ## !tryPremium
 
-InviteSuccubus'ın premium sürümünü sınırlı bir süre için ücretsiz deneyin.
+Invite Succubi'ın premium sürümünü sınırlı bir süre için ücretsiz deneyin.
 
 ### Usage
 
