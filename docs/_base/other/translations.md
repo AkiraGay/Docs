@@ -4,4 +4,4 @@
 
 ## §{other.translations.help.title}
 
-§{other.translations.help.description:["discordLink":"https://discord.gg/x3NGUSX","transifexLink":"https://www.transifex.com/AkiraGay/Docs/"]}
+§{other.translations.help.description:["discordLink":"https://discord.gg/SRmAYQTAFE","transifexLink":"https://www.transifex.com/AkiraGay/Docs/"]}
